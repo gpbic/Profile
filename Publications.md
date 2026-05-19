@@ -112,7 +112,8 @@ This page lists the publications of the research group.
 | 2011 | Parente, T. E. M. et al. | Structural features of cytochrome P450 1A associated with the absence of EROD activity in liver of the loricariid catfish *Pterygoplichthys* sp. | Cytochrome P450; Fish physiology | *Gene (Amsterdam)* |  | Published | [doi](http://dx.doi.org/10.1016/j.gene.2011.07.023) |
 
 ## 2010
-
+| Date | Authors | Publication Title | Tags | Published In | Journal IF | Status | DOI |
+|------|---------|-------------------|------|--------------|------------|--------|-----|
 | 2010 | da Silva, M. L. et al. | Design, docking studies and molecular dynamics of new potential selective inhibitors of *Plasmodium falciparum* serine hydroxymethyltransferase | Antimalarial; Docking; Molecular dynamics | *Molecular Simulation* |  | Published |  [doi](http://dx.doi.org/10.1080/08927020903051580) |
 
 
