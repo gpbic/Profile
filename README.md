@@ -29,7 +29,7 @@ PPG Pós-Graduação Multicêntrico em Ciências Fisiológicas [(PPGMCF)](https:
 
 ### You can find us on:
 
-###### [Instagram](https://www.instagram.com/bioin4all/) - [CNPq group](dgp.cnpq.br/dgp/espelhogrupo/0801520924494361)
+###### [Instagram](https://www.instagram.com/bioin4all/) - [CNPq group](http://dgp.cnpq.br/dgp/espelhogrupo/0801520924494361)
   
 
 ---
