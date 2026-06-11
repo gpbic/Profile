@@ -25,12 +25,12 @@ PPG Pós-Graduação Multicêntrico em Ciências Fisiológicas [(PPGMCF)](https:
 
 | People | Affiliation |
 |------|--------|
-|[Maria Fernanda Dias](https://orcid.org/0000-0002-0069-3199) | Pesquisadora visitante, Hospital Israelita Albert Einstein |
-|[Diego Allonso](https://farmacia.ufrj.br/prof-diego-allonso/) | Professor Adjunto, UFRJ |
-|[Beatriz Patrício](https://orcid.org/0000-0002-2477-9798) | Professor Adjunto, UNIRIO |
-|[Diego Paschoal](http://lattes.cnpq.br/2814348897103695) | Professor Adjunto, UFRJ |
-|[Priscilla Olsen](https://posimuno.imppg.ufrj.br/priscilla-christina-olsen/) | Professora Associada, UFRJ |
-|[Pedro Torres](https://ppgbiofisica.biof.ufrj.br/institucional/equipe/docentes/pedro-henrique-monteiro-torres) | Pesquisador associado, UFRJ |
+|[Maria Fernanda Dias](https://orcid.org/0000-0002-0069-3199) | Visiting faculty, Hospital Israelita Albert Einstein |
+|[Diego Allonso](https://farmacia.ufrj.br/prof-diego-allonso/) | Professor, UFRJ |
+|[Beatriz Patrício](https://orcid.org/0000-0002-2477-9798) | Professor, UNIRIO |
+|[Diego Paschoal](http://lattes.cnpq.br/2814348897103695) | Professor, UFRJ |
+|[Priscilla Olsen](https://posimuno.imppg.ufrj.br/priscilla-christina-olsen/) | Professor, UFRJ |
+|[Pedro Torres](https://ppgbiofisica.biof.ufrj.br/institucional/equipe/docentes/pedro-henrique-monteiro-torres) | Professor, UFRJ |
 |[Rafael C. Bernardi](https://compbiophysics.auburn.edu) | Associate Professor, Auburn University |
 |[Marcelo C. R. Melo](https://compbiochem.colostate.edu) | Assistant Professor, Colorado State University |
 |[Priscila S. F. C. Gomes](https://orcid.org/0000-0001-7370-9596) | Assistant Professor, Université Marie et Louis Pasteur |
