@@ -15,12 +15,22 @@ PPG Pós-Graduação Multicêntrico em Ciências Fisiológicas [(PPGMCF)](https:
 | Role | People |
 |------|--------|
 | **Group Leader** | [Manuela Leal da Silva](https://orcid.org/0000-0003-4844-7138) |
-| **Collaborators** | [Maria Fernanda Dias](https://orcid.org/0000-0002-0069-3199) · [N]() |
 | **Postdoctoral researcher** | [Caio Cheohen](https://orcid.org/0000-0001-7826-9139) |
 | **PhD Students** | [Matheus Fernandes](https://orcid.org/0000-0002-0106-5928) · [Maria Eduarda](https://orcid.org/0000-0002-2029-235X) · [Ana Bulla](orcid.org/0000-0003-4118-294X) · [Lorrana Faria](https://orcid.org/0000-0003-4918-6187)  · [Vinnícius Schelk](https://orcid.org/0000-0002-7417-1369) |
-| **Master's Students** | [Nicolas Porto](https://orcid.org/0000-0002-1847-6352) · [Bruno Prado](https://orcid.org/0009-0008-3723-4405) |
-| **Undergraduate Students** | [Niara Carvalho]() · [Maria Clara]() |
-| **Extension Students** | [N]() |
+| **Master's Students** | [Nicolas Porto](https://orcid.org/0000-0002-1847-6352) · [Bruno Prado](https://orcid.org/0009-0008-3723-4405) · [Karen Leodelgario](http://lattes.cnpq.br/5601399405149277) |
+| **Undergraduate Students** | [Niara Carvalho](https://lattes.cnpq.br/5439248537635064) · [Maria Clara](https://lattes.cnpq.br/9151473434176256) · [Victoria Cardoso](https://lattes.cnpq.br/2053020663200001) · [Pedro Emanuel](http://lattes.cnpq.br/8741303732494014)  · [Flaine Mion](http://lattes.cnpq.br/4953773603787951) |
+
+
+## Collaborators
+
+| People | Affiliation |
+|------|--------|
+|[Maria Fernanda Dias](https://orcid.org/0000-0002-0069-3199) |  |
+|[]() |  |
+|[Rafael C. Bernardi](https://compbiophysics.auburn.edu) | Associate Professor, Auburn University |
+|[Marcelo C. R. Melo](https://compbiochem.colostate.edu) | Assistant Professor, Colorado State University |
+|[Priscila S. F. C. Gomes](https://orcid.org/0000-0001-7370-9596) | Assistant Professor, Université Marie et Louis Pasteur |
+
 
 
 ## Funding
